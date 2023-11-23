@@ -1,2 +1,2 @@
 I finally got access via SSH
-I will pass on debuging HTTPS 
+I will pass on debuging HTTPS
